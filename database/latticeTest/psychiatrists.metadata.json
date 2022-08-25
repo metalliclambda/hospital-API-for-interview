@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"latticeTest.psychiatrists"}],"uuid":"e4ee56c5709c45bb95f2a195c3cc8e95"}
